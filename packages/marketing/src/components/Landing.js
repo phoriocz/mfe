@@ -76,7 +76,9 @@ export default function Album() {
               Home Page
             </Typography>
             <Typography variant='h5' align='center' color='textSecondary' paragraph>
-              Something short and leading about the collection below—its contents, the creator, etc. Make it short and sweet, but not too short so folks don&apos;t simply skip over it entirely.
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus enim mi, finibus in metus porta, luctus feugiat ipsum. Sed sollicitudin malesuada mauris. Integer ac porttitor augue, sit
+              amet condimentum enim. Donec ut enim sit amet odio dignissim volutpat vel at sapien. Quisque sagittis gravida orci, eu aliquet mauris tempor eget. Nullam quis eros a justo condimentum
+              consequat. Mauris cursus scelerisque eros dapibus bibendum.
             </Typography>
             <div className={classes.heroButtons}>
               <Grid container spacing={2} justifyContent='center'>
@@ -109,7 +111,7 @@ export default function Album() {
                     <Typography gutterBottom variant='h5' component='h2'>
                       Heading
                     </Typography>
-                    <Typography>This is a media card. You can use this section to describe the content.</Typography>
+                    <Typography>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</Typography>
                   </CardContent>
                   <CardActions>
                     <Button size='small' color='primary'>
